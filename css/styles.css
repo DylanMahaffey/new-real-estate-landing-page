@@ -237,6 +237,18 @@ font-size: 20px;
     text-indent: 30px;
 }
 
+/* Community */
+.community {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+ }
+
+ .community-content p{
+    text-align: left;
+    text-indent: 50px;
+ }
+
 /* Contact */
 .contact{
     margin: 0 20px;
